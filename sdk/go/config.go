@@ -1,6 +1,6 @@
 package msb
 
-import "github.com/microsandbox/microsandbox/sdk/go/uuid"
+import "github.com/calebax/microsandbox/sdk/go/uuid"
 
 type ReqIdProducer func() string
 
